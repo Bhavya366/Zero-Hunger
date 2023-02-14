@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Zero-Hunger/static/css/main.20cb76c0.css",
+    "main.js": "/Zero-Hunger/static/js/main.0ef7b264.js",
+    "static/media/successposter.jpeg": "/Zero-Hunger/static/media/successposter.8f9db9e31ba0b16bb2bf.jpeg",
+    "static/media/poster.jpg": "/Zero-Hunger/static/media/poster.8f14f61a6f81b70930d6.jpg",
+    "static/media/donarposter.jpeg": "/Zero-Hunger/static/media/donarposter.60931c92100bc18fc5a8.jpeg",
+    "static/media/NeedFoodposter.jpeg": "/Zero-Hunger/static/media/NeedFoodposter.9192d663ac2fd0cd7087.jpeg",
+    "static/media/logo.png": "/Zero-Hunger/static/media/logo.7db1dc3f715ed944a37b.png",
+    "index.html": "/Zero-Hunger/index.html",
+    "main.20cb76c0.css.map": "/Zero-Hunger/static/css/main.20cb76c0.css.map",
+    "main.0ef7b264.js.map": "/Zero-Hunger/static/js/main.0ef7b264.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20cb76c0.css",
+    "static/js/main.0ef7b264.js"
+  ]
+}
